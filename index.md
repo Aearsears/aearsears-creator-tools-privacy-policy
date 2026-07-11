@@ -18,4 +18,4 @@ The application requests only the minimum scopes necessary to publish Shorts to 
 
 ---
 
-Learn more about how we handle your data: **[📋 View Full Privacy Policy](PRIVACY_POLICY.md)**
+Learn more about how we handle your data: **[📋 View Full Privacy Policy](privacy-policy.html)**
