@@ -1,10 +1,10 @@
-# Google App Privacy Policy
+# Aearsears Creator Tools - Privacy Policy
 
-A repository containing privacy policy information for Google applications.
+A repository containing privacy policy information for Aearsears Creator Tools applications.
 
 ## Overview
 
-This repository documents and tracks privacy policies related to Google applications and services.
+This repository documents and tracks privacy policies related to Aearsears Creator Tools and services.
 
 ## Contents
 
